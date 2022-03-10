@@ -1,0 +1,347 @@
+{
+    "hats": [
+        {
+            "id": 1,
+            "name": "Devil Horns",
+            "image": 1
+        },
+        {
+            "id": 2,
+            "name": "Crown",
+            "image": 1
+        },
+        {
+            "id": 3,
+            "name": "Captain",
+            "image": 1
+        },
+        {
+            "id": 4,
+            "name": "Cat",
+            "image": 1
+        },
+        {
+            "id": 5,
+            "name": "Candle",
+            "image": 1
+        },
+        {
+            "id": 6,
+            "name": "Bucket",
+            "image": 1
+        },
+        {
+            "id": 7,
+            "name": "Witch",
+            "image": 1
+        },
+        {
+            "id": 8,
+            "name": "Stem",
+            "image": 1
+        },
+        {
+            "id": 9,
+            "name": "Bandana",
+            "image": 1
+        },
+        {
+            "id": 10,
+            "name": "Halo",
+            "image": 1
+        },
+        {
+            "id": 11,
+            "name": "Robin Hood",
+            "image": 1
+        },
+        {
+            "id": 12,
+            "name": "Hockey Mask",
+            "image": 1
+        },
+        {
+            "id": 13,
+            "name": "Laurel",
+            "image": 1
+        },
+        {
+            "id": 14,
+            "name": "Pirate",
+            "image": 1
+        }
+    ],
+    "eyes": [
+        {
+            "id": 1,
+            "name": "Purple Lens",
+            "image": 1
+        },
+        {
+            "id": 2,
+            "name": "Cyclops",
+            "image": 1
+        },
+        {
+            "id": 3,
+            "name": "3rd Eye",
+            "image": 1
+        },
+        {
+            "id": 4,
+            "name": "Closed",
+            "image": 1
+        },
+        {
+            "id": 5,
+            "name": "Angry",
+            "image": 1
+        },
+        {
+            "id": 6,
+            "name": "Winking",
+            "image": 1
+        },
+        {
+            "id": 7,
+            "name": "Fire",
+            "image": 1
+        },
+        {
+            "id": 8,
+            "name": "Tongue",
+            "image": 1
+        },
+        {
+            "id": 9,
+            "name": "Crying",
+            "image": 1
+        },
+        {
+            "id": 10,
+            "name": "Jack O Lantern",
+            "image": 1
+        },
+        {
+            "id": 11,
+            "name": "Happy",
+            "image": 1
+        },
+        {
+            "id": 12,
+            "name": "Crooked",
+            "image": 1
+        },
+        {
+            "id": 13,
+            "name": "Cute",
+            "image": 1
+        }
+    ],
+    "mouths": [
+        {
+            "id": 1,
+            "name": "Angry",
+            "image": 1
+        },
+        {
+            "id": 2,
+            "name": "Happy",
+            "image": 1
+        },
+        {
+            "id": 3,
+            "name": "Cigar",
+            "image": 1
+        },
+        {
+            "id": 4,
+            "name": "Grill",
+            "image": 1
+        },
+        {
+            "id": 5,
+            "name": "Oni",
+            "image": 1
+        },
+        {
+            "id": 6,
+            "name": "Closed",
+            "image": 1
+        },
+        {
+            "id": 7,
+            "name": "Sad",
+            "image": 1
+        },
+        {
+            "id": 8,
+            "name": "Bubble",
+            "image": 1
+        },
+        {
+            "id": 9,
+            "name": "Jack O Lantern",
+            "image": 1
+        },
+        {
+            "id": 10,
+            "name": "Tongue",
+            "image": 1
+        },
+        {
+            "id": 11,
+            "name": "Vampire",
+            "image": 1
+        },
+        {
+            "id": 12,
+            "name": "Lips",
+            "image": 1
+        },
+        {
+            "id": 13,
+            "name": "Smile",
+            "image": 1
+        },
+        {
+            "id": 14,
+            "name": "Nightmare",
+            "image": 1
+        }
+    ],
+    "shirts": [
+        {
+            "id": 1,
+            "name": "Samurai",
+            "image": 1
+        },
+        {
+            "id": 2,
+            "name": "Robe",
+            "image": 1
+        },
+        {
+            "id": 3,
+            "name": "Tux",
+            "image": 1
+        },
+        {
+            "id": 4,
+            "name": "Vest",
+            "image": 1
+        },
+        {
+            "id": 5,
+            "name": "Reaper",
+            "image": 1
+        },
+        {
+            "id": 6,
+            "name": "Hoody",
+            "image": 1
+        },
+        {
+            "id": 7,
+            "name": "Astronaut",
+            "image": 1
+        },
+        {
+            "id": 8,
+            "name": "Maid",
+            "image": 1
+        },
+        {
+            "id": 9,
+            "name": "Chains",
+            "image": 1
+        }
+    ],
+    "bodies": [
+        {
+            "id": 1,
+            "name": "Orange",
+            "image": 1
+        },
+        {
+            "id": 2,
+            "name": "Clear",
+            "image": 1
+        },
+        {
+            "id": 3,
+            "name": "Gold",
+            "image": 1
+        },
+        {
+            "id": 4,
+            "name": "Green",
+            "image": 1
+        },
+        {
+            "id": 5,
+            "name": "White",
+            "image": 1
+        },
+        {
+            "id": 6,
+            "name": "Red",
+            "image": 1
+        }
+    ],
+    "backgrounds": [
+        {
+            "id": 1,
+            "name": "Green",
+            "image": 1
+        },
+        {
+            "id": 2,
+            "name": "White",
+            "image": 1
+        },
+        {
+            "id": 3,
+            "name": "Purple",
+            "image": 1
+        },
+        {
+            "id": 4,
+            "name": "Red",
+            "image": 1
+        },
+        {
+            "id": 5,
+            "name": "Orange",
+            "image": 1
+        },
+        {
+            "id": 6,
+            "name": "Grey",
+            "image": 1
+        },
+        {
+            "id": 7,
+            "name": "Blue",
+            "image": 1
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "mariomario@gmail.com"
+        }
+    ],
+    "avatars": [
+        {
+            "id": 1,
+            "userId": 1,
+            "hatId": "1",
+            "eyeId": "1",
+            "mouthId": "1",
+            "shirtId": "1",
+            "bodyId": "1",
+            "backgroundId": "1"
+        }
+    ]
+}
