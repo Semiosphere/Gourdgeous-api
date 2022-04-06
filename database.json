@@ -1,347 +1,1490 @@
 {
-    "hats": [
-        {
-            "id": 1,
-            "name": "Devil Horns",
-            "image": 1
-        },
-        {
-            "id": 2,
-            "name": "Crown",
-            "image": 1
-        },
-        {
-            "id": 3,
-            "name": "Captain",
-            "image": 1
-        },
-        {
-            "id": 4,
-            "name": "Cat",
-            "image": 1
-        },
-        {
-            "id": 5,
-            "name": "Candle",
-            "image": 1
-        },
-        {
-            "id": 6,
-            "name": "Bucket",
-            "image": 1
-        },
-        {
-            "id": 7,
-            "name": "Witch",
-            "image": 1
-        },
-        {
-            "id": 8,
-            "name": "Stem",
-            "image": 1
-        },
-        {
-            "id": 9,
-            "name": "Bandana",
-            "image": 1
-        },
-        {
-            "id": 10,
-            "name": "Halo",
-            "image": 1
-        },
-        {
-            "id": 11,
-            "name": "Robin Hood",
-            "image": 1
-        },
-        {
-            "id": 12,
-            "name": "Hockey Mask",
-            "image": 1
-        },
-        {
-            "id": 13,
-            "name": "Laurel",
-            "image": 1
-        },
-        {
-            "id": 14,
-            "name": "Pirate",
-            "image": 1
-        }
-    ],
-    "eyes": [
-        {
-            "id": 1,
-            "name": "Purple Lens",
-            "image": 1
-        },
-        {
-            "id": 2,
-            "name": "Cyclops",
-            "image": 1
-        },
-        {
-            "id": 3,
-            "name": "3rd Eye",
-            "image": 1
-        },
-        {
-            "id": 4,
-            "name": "Closed",
-            "image": 1
-        },
-        {
-            "id": 5,
-            "name": "Angry",
-            "image": 1
-        },
-        {
-            "id": 6,
-            "name": "Winking",
-            "image": 1
-        },
-        {
-            "id": 7,
-            "name": "Fire",
-            "image": 1
-        },
-        {
-            "id": 8,
-            "name": "Tongue",
-            "image": 1
-        },
-        {
-            "id": 9,
-            "name": "Crying",
-            "image": 1
-        },
-        {
-            "id": 10,
-            "name": "Jack O Lantern",
-            "image": 1
-        },
-        {
-            "id": 11,
-            "name": "Happy",
-            "image": 1
-        },
-        {
-            "id": 12,
-            "name": "Crooked",
-            "image": 1
-        },
-        {
-            "id": 13,
-            "name": "Cute",
-            "image": 1
-        }
-    ],
-    "mouths": [
-        {
-            "id": 1,
-            "name": "Angry",
-            "image": 1
-        },
-        {
-            "id": 2,
-            "name": "Happy",
-            "image": 1
-        },
-        {
-            "id": 3,
-            "name": "Cigar",
-            "image": 1
-        },
-        {
-            "id": 4,
-            "name": "Grill",
-            "image": 1
-        },
-        {
-            "id": 5,
-            "name": "Oni",
-            "image": 1
-        },
-        {
-            "id": 6,
-            "name": "Closed",
-            "image": 1
-        },
-        {
-            "id": 7,
-            "name": "Sad",
-            "image": 1
-        },
-        {
-            "id": 8,
-            "name": "Bubble",
-            "image": 1
-        },
-        {
-            "id": 9,
-            "name": "Jack O Lantern",
-            "image": 1
-        },
-        {
-            "id": 10,
-            "name": "Tongue",
-            "image": 1
-        },
-        {
-            "id": 11,
-            "name": "Vampire",
-            "image": 1
-        },
-        {
-            "id": 12,
-            "name": "Lips",
-            "image": 1
-        },
-        {
-            "id": 13,
-            "name": "Smile",
-            "image": 1
-        },
-        {
-            "id": 14,
-            "name": "Nightmare",
-            "image": 1
-        }
-    ],
-    "shirts": [
-        {
-            "id": 1,
-            "name": "Samurai",
-            "image": 1
-        },
-        {
-            "id": 2,
-            "name": "Robe",
-            "image": 1
-        },
-        {
-            "id": 3,
-            "name": "Tux",
-            "image": 1
-        },
-        {
-            "id": 4,
-            "name": "Vest",
-            "image": 1
-        },
-        {
-            "id": 5,
-            "name": "Reaper",
-            "image": 1
-        },
-        {
-            "id": 6,
-            "name": "Hoody",
-            "image": 1
-        },
-        {
-            "id": 7,
-            "name": "Astronaut",
-            "image": 1
-        },
-        {
-            "id": 8,
-            "name": "Maid",
-            "image": 1
-        },
-        {
-            "id": 9,
-            "name": "Chains",
-            "image": 1
-        }
-    ],
-    "bodies": [
-        {
-            "id": 1,
-            "name": "Orange",
-            "image": 1
-        },
-        {
-            "id": 2,
-            "name": "Clear",
-            "image": 1
-        },
-        {
-            "id": 3,
-            "name": "Gold",
-            "image": 1
-        },
-        {
-            "id": 4,
-            "name": "Green",
-            "image": 1
-        },
-        {
-            "id": 5,
-            "name": "White",
-            "image": 1
-        },
-        {
-            "id": 6,
-            "name": "Red",
-            "image": 1
-        }
-    ],
-    "backgrounds": [
-        {
-            "id": 1,
-            "name": "Green",
-            "image": 1
-        },
-        {
-            "id": 2,
-            "name": "White",
-            "image": 1
-        },
-        {
-            "id": 3,
-            "name": "Purple",
-            "image": 1
-        },
-        {
-            "id": 4,
-            "name": "Red",
-            "image": 1
-        },
-        {
-            "id": 5,
-            "name": "Orange",
-            "image": 1
-        },
-        {
-            "id": 6,
-            "name": "Grey",
-            "image": 1
-        },
-        {
-            "id": 7,
-            "name": "Blue",
-            "image": 1
-        }
-    ],
-    "users": [
-        {
-            "id": 1,
-            "email": "mariomario@gmail.com"
-        }
-    ],
-    "avatars": [
-        {
-            "id": 1,
-            "userId": 1,
-            "hatId": "1",
-            "eyeId": "1",
-            "mouthId": "1",
-            "shirtId": "1",
-            "bodyId": "1",
-            "backgroundId": "1"
-        }
-    ]
+  "hats": [
+    {
+      "id": 1,
+      "name": "Devil Horns",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859365/Hats/Devil_Horns_Hat_wylmmm.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 2,
+      "name": "Crown",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859365/Hats/Crown_Hat_hxdbih.png",
+      "q1": "none",
+      "q2": "fantasy",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 3,
+      "name": "Captain",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Captain_Hat_zkpbl2.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "summer"
+    },
+    {
+      "id": 4,
+      "name": "Cat",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Cat_Hat_kc6xva.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "winter"
+    },
+    {
+      "id": 5,
+      "name": "Candle",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Candle_Hat_jiiax2.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 6,
+      "name": "Bucket",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Bucket_Hat_dwe9df.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 7,
+      "name": "Witch",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Witch_Hat_k5vwcg.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 8,
+      "name": "Stem",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Stem_Hat_ric84b.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "summer"
+    },
+    {
+      "id": 9,
+      "name": "Bandana",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Hats_3_kmbfqr.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "summer"
+    },
+    {
+      "id": 10,
+      "name": "Halo",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Halo_Hat_s0wiza.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 11,
+      "name": "Robin Hood",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Robin_Hood_Hat_acfnyu.png",
+      "q1": "none",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 12,
+      "name": "Hockey Mask",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Hats_t9qumh.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 13,
+      "name": "Laurel",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Hats_4_y7ruav.png",
+      "q1": "none",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 14,
+      "name": "Pirate",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859364/Hats/Pirate_Hat_bcyw92.png",
+      "q1": "none",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 15,
+      "name": "Guy Fawkes",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638023/Hats/Guy_Fawkes_Hat_kq0bso.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 16,
+      "name": "Gorilla Mask",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638022/Hats/Gorilla_Mask_Hat_f4odme.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 17,
+      "name": "Gold Stalk",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638021/Hats/Gold_Stalk_ylsrpb.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 18,
+      "name": "Cowboy Hat",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638020/Hats/Cowboy_Hat_rsy9vm.png",
+      "q1": "none",
+      "q2": "fantasy",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 19,
+      "name": "Brain in a Jar",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638019/Hats/Brain_in_a_Jar_Hat_orlump.png",
+      "q1": "spooky",
+      "q2": "scifi",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 20,
+      "name": "Thunk",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638018/Hats/Arrow_jptyik.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 21,
+      "name": "Unicorn Horn",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638018/Hats/Unicorn_Horn_at3dbo.png",
+      "q1": "sweet",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 22,
+      "name": "Top Hat",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638016/Hats/Top_Hat_slgmsc.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 23,
+      "name": "Kettle",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638015/Hats/Teapot_Hat_za0zqw.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 24,
+      "name": "Plague Doctor",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638014/Hats/Plague_Hat_q9c9qj.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 25,
+      "name": "Pilgrim",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638013/Hats/Pilgrim_Hat_qzyyas.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 26,
+      "name": "Liberty Spikes",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638012/Hats/Liberty_Spikes_Hat_i9w4o6.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 27,
+      "name": "Headphones",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638011/Hats/Headphones_Hat_oiz2ur.png",
+      "q1": "none",
+      "q2": "scifi",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 28,
+      "name": "No Hats",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647645468/Hats/None_Hat_tgoioq.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    }
+  ],
+  "eyes": [
+    {
+      "id": 1,
+      "name": "Purple Lens",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859430/Eyes/Gold_Glasses_vubhw3.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "summer"
+    },
+    {
+      "id": 2,
+      "name": "Cyclops",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859430/Eyes/Cyclops_Eye_ckfrrw.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 3,
+      "name": "3rd Eye",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859430/Eyes/3rd_Eye_qphpyb.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 4,
+      "name": "Closed",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859430/Eyes/Closed_Eyes_hp6vyz.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 5,
+      "name": "Angry",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859430/Eyes/Angry_Eyes_ht8me0.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 6,
+      "name": "Winking",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859430/Eyes/Winking_Eyes_gp03e9.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 7,
+      "name": "Fire",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859429/Eyes/Smoke_Eyes_vlupze.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 8,
+      "name": "Tongue",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859429/Eyes/Tongue_Eyes_p7oubo.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 9,
+      "name": "Crying",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859429/Eyes/Sad_Eyes_nhycqj.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 10,
+      "name": "Jack O Lantern",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859429/Eyes/Jack_O_Lantern_Eyes_cn6xon.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 11,
+      "name": "Happy",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859429/Eyes/Happy_Eyes_uiwue2.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 12,
+      "name": "Crooked",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859429/Eyes/Nerd_Glasses_xlwbkl.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 13,
+      "name": "Cute",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859429/Eyes/Lady_Eyes_i7dffq.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 14,
+      "name": "Laser",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638392/Eyes/Laser_Eyes_s4z4aw.png",
+      "q1": "none",
+      "q2": "scifi",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 15,
+      "name": "Da Jokah Baybee",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638391/Eyes/Joker_Eyes_ympomv.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 16,
+      "name": "Hypnotized",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638390/Eyes/Hypnotized_Eyes_enbmw4.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 17,
+      "name": "Excited",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638389/Eyes/Excited_Eyes_evljzz.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 18,
+      "name": "Demon",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638388/Eyes/4_Eyes_uxl7xz.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 19,
+      "name": "3D",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638387/Eyes/3D_Glasses_k2n53q.png",
+      "q1": "none",
+      "q2": "scifi",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 20,
+      "name": "Witch",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638386/Eyes/Witch_Eyes_gwjsfm.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 21,
+      "name": "Sunglasses",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638385/Eyes/Sunglasses2_Eyes_z7dca5.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "summer"
+    },
+    {
+      "id": 22,
+      "name": "Starburst",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638383/Eyes/Starburst_Eyes_bdeqo2.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 23,
+      "name": "Ski Goggles",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638382/Eyes/Ski_Eyes_bppwu9.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 24,
+      "name": "Shaq",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638381/Eyes/Red_Laser_Eyes_tz3t4j.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 25,
+      "name": "No Eyes",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647645450/Eyes/None_Eyes_njmwuw.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    }
+  ],
+  "mouths": [
+    {
+      "id": 1,
+      "name": "Angry",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859217/Mouths/Angry_Mouth_pbtcav.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 2,
+      "name": "Happy",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859217/Mouths/Happy_Mouth_cvgq96.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 3,
+      "name": "Cigar",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859217/Mouths/Cigar_Mouth_edbqft.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "summer"
+    },
+    {
+      "id": 4,
+      "name": "Grill",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859217/Mouths/Grill_Mouth_cy8vok.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 5,
+      "name": "Oni",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859217/Mouths/Oni_Mask_Mouth_pbitoj.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 6,
+      "name": "Closed",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859217/Mouths/Closed_Mouth_l9vrtb.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 7,
+      "name": "Sad",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859217/Mouths/Sad_Mouth_ynp1ef.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 8,
+      "name": "Bubble",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859217/Mouths/Bubble_Mouth_anwmpo.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 9,
+      "name": "Jack O Lantern",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859216/Mouths/Jack_o_Lantern_Mouth_p8fpw2.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 10,
+      "name": "Tongue",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859216/Mouths/Tongue_Out_Mouth_ryxgmt.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 11,
+      "name": "Vampire",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859216/Mouths/Vampire_Mouth_zf2yg1.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 12,
+      "name": "Lips",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859216/Mouths/Lady_Mouth_rc2rno.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 13,
+      "name": "Smile",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859216/Mouths/Huge_Mouth_kfihtn.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 14,
+      "name": "Nightmare",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859216/Mouths/Nightmare_Mouth_qzjyv7.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "winter"
+    },
+    {
+      "id": 15,
+      "name": "Knife",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638755/Mouths/Knife_Mouth_tlkxqu.png",
+      "q1": "none",
+      "q2": "scifi",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 16,
+      "name": "Scars",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638754/Mouths/Joker_Mouth_w0k6sv.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 17,
+      "name": "Grenade",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638753/Mouths/Grenade_Mouth_ldcycp.png",
+      "q1": "none",
+      "q2": "spooky",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 18,
+      "name": "Gold Toof",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638752/Mouths/Gold_Tooth_Mouth_muflfj.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 19,
+      "name": "Candy Corn",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638751/Mouths/Candy_Corn_Mouth_zarbg9.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 20,
+      "name": "Mask mandate",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638750/Mouths/Spooky_Mask_Mouth_oocyur.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 21,
+      "name": "No Mouth",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647645480/Mouths/None_Mouth_kjpfjh.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    }
+  ],
+  "shirts": [
+    {
+      "id": 1,
+      "name": "Samurai",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859079/Shirts/Samurai_Shirt_tnsqyw.png",
+      "q1": "none",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 2,
+      "name": "Robe",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859079/Shirts/Robe_Shirt_s6njga.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "winter"
+    },
+    {
+      "id": 3,
+      "name": "Tux",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859079/Shirts/Tuxedo_Shirt_fw57fk.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 4,
+      "name": "Vest",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859079/Shirts/Aladdin_Shirt_akttqj.png",
+      "q1": "sweet",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 5,
+      "name": "Reaper",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859078/Shirts/Grim_Reaper_Shirt_jzvwug.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 6,
+      "name": "Hoody",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859078/Shirts/HODL_Shirt_aeoiri.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 7,
+      "name": "Astronaut",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859078/Shirts/Astronaut_Shirt_y53518.png",
+      "q1": "none",
+      "q2": "scifi",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 8,
+      "name": "Maid",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859078/Shirts/Maid_Shirt_oybtn2.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 9,
+      "name": "Chains",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859078/Shirts/Chain_Shirt_ue90sk.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "summer"
+    },
+    {
+      "id": 10,
+      "name": "Armor",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639012/Shirts/Armor_Shirt_qzdp40.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 11,
+      "name": "Witch",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639011/Shirts/Witch_Shirt_bnpb12.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 12,
+      "name": "Turtleneck",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639010/Shirts/Turtleneck_Shirt_jctfgl.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "winter"
+    },
+    {
+      "id": 13,
+      "name": "School",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639009/Shirts/School_Girl_Shirt_iluuv5.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 14,
+      "name": "Scarf",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639008/Shirts/Scarf_Shirt_l2w5bc.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "winter"
+    },
+    {
+      "id": 15,
+      "name": "Red Dress",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639007/Shirts/Red_Dress_Shirt_divnz6.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "summer"
+    },
+    {
+      "id": 16,
+      "name": "Puffy",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639006/Shirts/Puffy_Shirt_h78pen.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "winter"
+    },
+    {
+      "id": 17,
+      "name": "Pimp",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639005/Shirts/Pimp_Shirt_z82yym.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 18,
+      "name": "Oogie Boogie",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639004/Shirts/Oogie_Boogie_Shirt_qdlxqu.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 19,
+      "name": "Nurse",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639003/Shirts/Nurse_Shirt_z3nftz.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 20,
+      "name": "Mummy",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639002/Shirts/Mummy_Shirt_fkgcfh.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 21,
+      "name": "Leaf Cloak",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639001/Shirts/Leaf_Cloak_Shirt_t7i0tg.png",
+      "q1": "none",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 22,
+      "name": "Hockey",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647639000/Shirts/Hockey_Shirt_bvtxaf.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "winter"
+    },
+    {
+      "id": 23,
+      "name": "Hazmat",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638999/Shirts/Hazmat_Shirt_s7wsoq.png",
+      "q1": "none",
+      "q2": "scifi",
+      "q3": "unfashionable",
+      "q4": "none"
+    },
+    {
+      "id": 24,
+      "name": "Doctor",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638998/Shirts/Doctor_Shirt_rmbhqh.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 25,
+      "name": "Denim",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638997/Shirts/Denim_with_Fur_Shirt_rbfgeb.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 26,
+      "name": "Bomber Jacket",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638996/Shirts/Bomber_Jacket_Shirt_mnf0j6.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "winter"
+    },
+    {
+      "id": 27,
+      "name": "Black Dress",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638995/Shirts/Black_Dress_Shirt_cj3qnx.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "summer"
+    },
+    {
+      "id": 28,
+      "name": "Leather",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638994/Shirts/Biker_Jacket_Shirt_o024np.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "winter"
+    },
+    {
+      "id": 29,
+      "name": "Basketball",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647638993/Shirts/Basketball_Shirt_uosujz.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 30,
+      "name": "No Shirt",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647645491/Shirts/None_Shirt_kleabp.png"
+    }
+  ],
+  "bodies": [
+    {
+      "id": 1,
+      "name": "Orange",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859499/Bodies/Orange_Head_ybl02x.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 2,
+      "name": "Clear",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859499/Bodies/Translucent_Head_zpa0d5.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 3,
+      "name": "Gold",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647643484/Bodies/Gold_Head_uygcst.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 4,
+      "name": "Green",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859499/Bodies/Green_Head_eounyi.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 5,
+      "name": "White",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859498/Bodies/White_Head_lv0hmu.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 6,
+      "name": "Red",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859498/Bodies/Red_Head_uhz3pn.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 7,
+      "name": "tattoo",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647643486/Bodies/Tattoo_Head_dnwrfl.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 8,
+      "name": "Robot",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647643485/Bodies/Robot_lvlhn5.png",
+      "q1": "none",
+      "q2": "scifi",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 9,
+      "name": "Trippy",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647643483/Bodies/DMT_Head_govasb.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 10,
+      "name": "Bloody",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647643482/Bodies/Bloody_Head_i9kc5q.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 11,
+      "name": "Zombie",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647643481/Bodies/Zombie_Head_xhwfmp.png",
+      "q1": "spooky",
+      "q2": "fantasy",
+      "q3": "none",
+      "q4": "none"
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": 1,
+      "name": "Green",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859567/Backgrounds/Teal_BG_zftsaf.png"
+    },
+    {
+      "id": 2,
+      "name": "White",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859567/Backgrounds/White_BG_fbzbw4.png"
+    },
+    {
+      "id": 3,
+      "name": "Purple",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859566/Backgrounds/Purple_BG_ylzt0e.png"
+    },
+    {
+      "id": 4,
+      "name": "Red",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859566/Backgrounds/Red_BG_w2lw3w.png"
+    },
+    {
+      "id": 5,
+      "name": "Orange",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859566/Backgrounds/Orange_BG_gaffjq.png"
+    },
+    {
+      "id": 6,
+      "name": "Grey",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859566/Backgrounds/Grey_BG_s30m0z.png"
+    },
+    {
+      "id": 7,
+      "name": "Blue",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1646859566/Backgrounds/Blue_BG_tiui6n.png"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 1,
+      "name": "Bats",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637467/Accessories/Bats_Accessory_mbegqq.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 2,
+      "name": "Meteor",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637467/Accessories/Meteor_Accessory_xpdjv1.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 3,
+      "name": "Hand",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637467/Accessories/Hand_Accessory_sgd83c.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 4,
+      "name": "Portal",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637467/Accessories/Portal_Accessory_wlgbjb.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 5,
+      "name": "Neon",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637467/Accessories/Neon_Accessory_gtrdvy.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 6,
+      "name": "Spider Web",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637467/Accessories/Spider_Web_Accessory_jhw7mx.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "summer"
+    },
+    {
+      "id": 7,
+      "name": "Ghost",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637467/Accessories/Ghost_Accessory_txc72o.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 8,
+      "name": "Will O' Wisp",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637467/Accessories/Will_O__Wisp_Accessory_gxym73.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 9,
+      "name": "Candy",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637468/Accessories/Candy_Accessory_j3s1lq.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 10,
+      "name": "Dark Aura",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637468/Accessories/Dark_Aura_Accessory_a8zodh.png",
+      "q1": "spooky",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    },
+    {
+      "id": 11,
+      "name": "Sparkles",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647637468/Accessories/Sparkles_Accessory_n0vepb.png",
+      "q1": "sweet",
+      "q2": "none",
+      "q3": "fashionable",
+      "q4": "none"
+    },
+    {
+      "id": 12,
+      "name": "No Accessory",
+      "image": "https://res.cloudinary.com/dvdug0mzg/image/upload/v1647645433/Accessories/None_Accessory_uenfcr.png",
+      "q1": "none",
+      "q2": "none",
+      "q3": "none",
+      "q4": "none"
+    }
+  ],
+  "users": [
+    {
+      "email": "ztd522@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "BrandNewAccount@account.com",
+      "id": 2
+    },
+    {
+      "email": "",
+      "id": 3
+    },
+    {
+      "email": "Capstone@Demo.com",
+      "id": 4
+    },
+    {
+      "email": "beansbeansbeans@beans.com",
+      "id": 5
+    }
+  ],
+  "avatars": [
+    {
+      "userId": 1,
+      "name": "Hockey Hank",
+      "hatId": 12,
+      "eyeId": 14,
+      "mouthId": 11,
+      "shirtId": 22,
+      "accessoryId": 5,
+      "bodyId": 6,
+      "backgroundId": 1,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "name": "Dutchess",
+      "hatId": 4,
+      "eyeId": 11,
+      "mouthId": 6,
+      "shirtId": 27,
+      "accessoryId": 6,
+      "bodyId": 7,
+      "backgroundId": 6,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "name": "Candy Killer",
+      "hatId": 26,
+      "eyeId": 22,
+      "mouthId": 19,
+      "shirtId": 10,
+      "accessoryId": 11,
+      "bodyId": 11,
+      "backgroundId": 1,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "name": "My First Gourd!",
+      "hatId": 27,
+      "eyeId": 13,
+      "mouthId": 12,
+      "shirtId": 8,
+      "accessoryId": 5,
+      "bodyId": 1,
+      "backgroundId": 1,
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "name": "My First Gourd!",
+      "hatId": 19,
+      "eyeId": 16,
+      "mouthId": 16,
+      "shirtId": 12,
+      "accessoryId": 3,
+      "bodyId": 1,
+      "backgroundId": 1,
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "name": "My First Gourd!",
+      "hatId": 19,
+      "eyeId": 16,
+      "mouthId": 16,
+      "shirtId": 12,
+      "accessoryId": 3,
+      "bodyId": 1,
+      "backgroundId": 1,
+      "id": 7
+    },
+    {
+      "userId": 4,
+      "name": "My First Gourd!",
+      "hatId": 23,
+      "eyeId": 17,
+      "mouthId": 13,
+      "shirtId": 13,
+      "accessoryId": 11,
+      "bodyId": 1,
+      "backgroundId": 1,
+      "id": 8
+    },
+    {
+      "userId": 4,
+      "name": "Lil Pumpkin",
+      "hatId": 10,
+      "eyeId": 13,
+      "mouthId": 15,
+      "shirtId": 16,
+      "accessoryId": 9,
+      "bodyId": 7,
+      "backgroundId": 6,
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "name": "My First Gourd! V2",
+      "hatId": 23,
+      "eyeId": 17,
+      "mouthId": 18,
+      "shirtId": 13,
+      "accessoryId": 11,
+      "bodyId": 1,
+      "backgroundId": 1,
+      "id": 10
+    },
+    {
+      "userId": 5,
+      "name": "My First Gourd!",
+      "hatId": 5,
+      "eyeId": 2,
+      "mouthId": 9,
+      "shirtId": 10,
+      "accessoryId": 10,
+      "bodyId": 1,
+      "backgroundId": 1,
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "name": "Esmerelda Doohiggins",
+      "hatId": 27,
+      "eyeId": 14,
+      "mouthId": 4,
+      "shirtId": 27,
+      "accessoryId": 3,
+      "bodyId": 7,
+      "backgroundId": 7,
+      "id": 12
+    },
+    {
+      "userId": 5,
+      "name": "Chief Tombstone",
+      "hatId": 18,
+      "eyeId": 17,
+      "mouthId": 4,
+      "shirtId": 1,
+      "accessoryId": 3,
+      "bodyId": 5,
+      "backgroundId": 2,
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "name": "Grassy Molasses",
+      "hatId": 8,
+      "eyeId": 9,
+      "mouthId": 6,
+      "shirtId": 19,
+      "accessoryId": 10,
+      "bodyId": 1,
+      "backgroundId": 7,
+      "id": 14
+    },
+    {
+      "userId": 5,
+      "name": "Erudite Prosper",
+      "hatId": 7,
+      "eyeId": 12,
+      "mouthId": 16,
+      "shirtId": 19,
+      "accessoryId": 11,
+      "bodyId": 3,
+      "backgroundId": 6,
+      "id": 15
+    },
+    {
+      "userId": 5,
+      "name": "Watashi Sinclaire",
+      "hatId": 22,
+      "eyeId": 4,
+      "mouthId": 1,
+      "shirtId": 23,
+      "accessoryId": 8,
+      "bodyId": 5,
+      "backgroundId": 6,
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "name": "Jax McKracklin",
+      "hatId": 28,
+      "eyeId": 23,
+      "mouthId": 9,
+      "shirtId": 14,
+      "accessoryId": 1,
+      "bodyId": 3,
+      "backgroundId": 7,
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "name": "Willoughby",
+      "hatId": 11,
+      "eyeId": 20,
+      "mouthId": 11,
+      "shirtId": 4,
+      "accessoryId": 2,
+      "bodyId": 11,
+      "backgroundId": 4,
+      "id": 18
+    },
+    {
+      "userId": 5,
+      "name": "Trish Mauburton",
+      "hatId": 6,
+      "eyeId": 11,
+      "mouthId": 18,
+      "shirtId": 26,
+      "accessoryId": 7,
+      "bodyId": 2,
+      "backgroundId": 7,
+      "id": 19
+    },
+    {
+      "userId": 5,
+      "name": "Zap Carnegie",
+      "hatId": 4,
+      "eyeId": 24,
+      "mouthId": 2,
+      "shirtId": 7,
+      "accessoryId": 9,
+      "bodyId": 8,
+      "backgroundId": 1,
+      "id": 20
+    },
+    {
+      "userId": 5,
+      "name": "Creak Lamplight",
+      "hatId": 4,
+      "eyeId": 12,
+      "mouthId": 15,
+      "shirtId": 29,
+      "accessoryId": 5,
+      "bodyId": 6,
+      "backgroundId": 1,
+      "id": 21
+    },
+    {
+      "userId": 5,
+      "name": "She Sees All!!!",
+      "hatId": 3,
+      "eyeId": 14,
+      "mouthId": 11,
+      "shirtId": 8,
+      "accessoryId": 8,
+      "bodyId": 10,
+      "backgroundId": 7,
+      "id": 22
+    },
+    {
+      "userId": 5,
+      "name": "Yumm Vondebah",
+      "hatId": 14,
+      "eyeId": 8,
+      "mouthId": 21,
+      "shirtId": 20,
+      "accessoryId": 10,
+      "bodyId": 4,
+      "backgroundId": 1,
+      "id": 24
+    },
+    {
+      "userId": 5,
+      "name": "Oops, All Carnage!",
+      "hatId": 10,
+      "eyeId": 13,
+      "mouthId": 17,
+      "shirtId": 6,
+      "accessoryId": 2,
+      "bodyId": 2,
+      "backgroundId": 1,
+      "id": 25
+    }
+  ]
 }
